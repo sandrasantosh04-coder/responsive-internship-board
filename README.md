@@ -58,3 +58,21 @@ or submitted to a backend server.
 
 ## Author
 MCA Student
+
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Internship Listings
+![Internship Listings](screenshots/internships.png)
+
+### Search and Filter Results
+![Filtered Results](screenshots/filtered-results.png)
+
+### Internship Details
+![Internship Details](screenshots/internship-details.png)
+
+### Application Form
+![Application Form](screenshots/application-form.png)
